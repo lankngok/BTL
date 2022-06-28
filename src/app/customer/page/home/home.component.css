@@ -1,0 +1,70 @@
+.active-cus a{
+    color: #91AD41 !important;
+}
+.nav-link:hover{
+    color: #91AD41 !important;
+}
+.dropdown-menu{
+    padding: 5px;
+}
+.dropdown-item{
+    padding: 10px;
+    border-bottom: 1px solid #4c4b4b50;
+}
+.dropdown-item:last-child{
+    border-bottom: 0 !important;
+}
+.card-1{
+    width: 100%;
+    overflow: hidden !important;
+    max-height: 70% !important  ;
+    background-color: rgb(89, 204, 166);
+}
+.card-2{
+    overflow: hidden !important;
+    max-height: 70% !important  ;
+    background-color: rgb(145, 173, 65);
+}
+.card-3{
+    overflow: hidden !important;
+    max-height: 70% !important  ;
+    background-color: rgb(227, 179, 117);
+}
+.card-4{
+    overflow: hidden !important;
+    max-height: 70% !important ;
+    background-color: rgb(239, 127, 148);
+}
+img{
+    overflow: hidden !important;
+    vertical-align: middle !important;
+}
+.content_headers{
+    font-size: 34px;
+}
+.text-gradiant{
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    background: linear-gradient(35deg, #91ad41 , #ff8a6c);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.content_text{
+    margin-top: 20px;
+    opacity: 0.8;
+    font-size: 14px;
+}
+.content .title{
+    padding-top: 10px;
+    font-size: 19px;
+    font-weight: 600;
+}
+.banner_content{
+    background-color: rgb(89, 204, 166);
+    background-image: url("https://bizweb.dktcdn.net/100/350/980/themes/802125/assets/col_1.png");
+    position: relative;
+    padding: 0;
+    background-size: 50% auto;
+    background-repeat: no-repeat;
+    background-position: right center
+}

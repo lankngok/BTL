@@ -1,0 +1,37 @@
+{
+    "category": [
+        {
+            "id": 1,
+            "cate_name": "Rau Cu"
+        },
+        {
+            "id": 2,
+            "cate_name": "Hoa Qua"
+        },
+        {
+            "id": 3,
+            "cate_name": "Hai San"
+        },
+        {
+            "id": 4,
+            "cate_name": "Cac Loai Hat"
+        },
+        {
+            "id": 5,
+            "cate_name": "Thuc Pham Tuoi Song"
+        }
+    ],
+
+    "products":[
+        {
+            "id": 1,
+            "prod_name": "Chanh Tuoi",
+            "price": 30000,
+            "weight": 1,
+            "status": true,
+            "origin": "VN",
+            "image": "https://minhcaumart.vn/media/com_eshop/products/chanh.jpg",
+            "prod_id": 1
+        } 
+    ]
+}
